@@ -1,2 +1,3 @@
 # github-action-template
-Template for creating an open-source GitHub Action
+
+Template for creating a GitHub Action with MIT license.
